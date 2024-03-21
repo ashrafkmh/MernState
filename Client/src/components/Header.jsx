@@ -23,10 +23,10 @@ export default function Header() {
         <a href='/' className='hidden sm:inline text-slate-700 hover:text-slate-900'>Home</a>
     </li>
     <li>
-        <a href='/about' className='hidden sm:inline text-slate-500 hover:text-slate-700'>About</a>      
+        <a href='/about' className='hidden sm:inline text-slate-700 hover:text-slate-700'>About</a>      
     </li>
     <li>
-        <a href='/signin' className='text-slate-500 hover:text-slate-700'>Sign In</a>   
+        <a href='/signin' className='text-slate-700 hover:text-slate-700'>Sign In</a>   
     </li>
    
 
